@@ -1,16 +1,27 @@
-### Hi there 👋
+# 
 
-<!--
-**valdree/valdree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=valdree&show_icons=true&count_private=true&theme=dark"/>
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi folks :wave: 
+
+*I'm Valdy Reado*
+
+I’m currently learning **Networking**
+
+I'm a IT Support. I college student in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
+
+
+---
+
+## Contact
+[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=#)](#)
+
+<a href="mailto:silaenvaldy@gmail.com">
+<img src="https://img.shields.io/badge/adithyakobba12@outlook.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="silaenvaldy@gmail.com"></a>
+
+<a  href="https://www.instagram.com/vldyrs/">
+<img src="https://img.shields.io/badge/@vldyrs-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
