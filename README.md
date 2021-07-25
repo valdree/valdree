@@ -10,9 +10,9 @@ Hi folks :wave:
 
 *I'm Valdy Reado*
 
-I’m currently learning ** Computer Networking**
+I’m currently learning ** Computer Networking - Software Engineering - Database Administrator**
 
-I'm a junioe IT Networking. I college student in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies, and i want to continue to learn related to technological developments in this world and i hope to create something useful for others, I hope my github can be useful for you.
+I'm a junior Informatics Engineering. I college student in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies, and i want to continue to learn related to technological developments in this world and i hope to create something useful for others, I hope my github can be useful for you.
 Thanks for visiting my github.
 Don't forget to give it a star 😁
 
