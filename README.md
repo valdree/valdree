@@ -12,7 +12,7 @@ Hi folks :wave:
 
 I’m currently learning **Networking**
 
-I'm a IT Support. I college student in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
+I'm a IT Support. I college student in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies, and i want to continue to learn related to technological developments in this world and i hope to create something useful for others.
 
 
 ---
