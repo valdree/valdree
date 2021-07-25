@@ -23,6 +23,3 @@ Don't forget to give it a star 😁
 
 <a href="mailto:silaenvaldy@gmail.com">
 <img src="https://img.shields.io/badge/silaenvaldy@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="silaenvaldy@gmail.com"></a>
-
-//<a  href="https://www.instagram.com/vldyrs/">
-//<img src="https://img.shields.io/badge/@vldyrs-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
