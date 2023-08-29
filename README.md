@@ -12,7 +12,7 @@ Hi folks :wave:
 
 I’m currently learning ** Computer Networking - Network Security**
 
-I'm a Informatics Engineering Student at Universitas Kristen Satya Wacana. I love to learn about how things work and try new tools and technologies, and i want to continue to learn related to technological developments in this world and i hope to create something useful for others, I hope my github can be useful for you.
+I'm a Informatics Engineering Fresh Graduate From Universitas Kristen Satya Wacana. I love to learn about how things work and try new tools and technologies, and i want to continue to learn related to technological developments in this world and i hope to create something useful for others, I hope my github can be useful for you.
 Thanks for visiting my github.
 Don't forget to give it a star 😁
 
