@@ -19,7 +19,7 @@ Don't forget to give it a star 😁
 ---
 
 ## Contact
-[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Fvaldree.github.io/)](https://valdree.github.io/)
+[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Fvaldree.github.io/)](https://beacons.ai/vldyrs)
 
 <a href="mailto:silaenvaldy@gmail.com">
 <img src="https://img.shields.io/badge/silaenvaldy@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="silaenvaldy@gmail.com"></a>
